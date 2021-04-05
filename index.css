@@ -1,0 +1,211 @@
+.section {
+  margin: auto;
+  position: relative;
+  top: -53px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 25px;
+  background: #fff;
+  height: 450px;
+  width: 375px;
+  border: 1px solid #0000001A;
+}
+
+.section .steveHeader {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  font-size: 20px;
+}
+
+.section .follow {
+  position: absolute;
+  top: 63px;
+  left: 40px;
+}
+
+.section .moreButton {
+  position: absolute;
+  top: 35px;
+  left: 320px;
+}
+
+.section .plusButton {
+  position: absolute;
+  top: 60px;
+  left: 16px;
+}
+
+.section #borderTop {
+  height: 94px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid #462681;
+}
+
+.section #borderBottom {
+  height: 167px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid #462681;
+}
+
+.section #thirdBorder {
+  height: 270px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid #462681;
+}
+
+.section #fourthBorder {
+  height: 342px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid #462681;
+}
+
+.section #finalBorder {
+  height: 414px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid #462681;
+}
+
+.section .firstNumber {
+  position: absolute;
+  top: 105px;
+  left: 40px;
+}
+
+.section .patents {
+  position: absolute;
+  top: 140px;
+  left: 41px;
+}
+
+.section .follwerNumber {
+  position: absolute;
+  top: 105px;
+  left: 135px;
+}
+
+.section .Follwers {
+  position: absolute;
+  top: 140px;
+  left: 148px;
+}
+
+.section .thirdNumber {
+  position: absolute;
+  top: 105px;
+  left: 285px;
+}
+
+.section .Follwering {
+  position: absolute;
+  top: 140px;
+  left: 278px;
+}
+
+.section .categories {
+  position: absolute;
+  top: 185px;
+  left: 33px;
+}
+
+.section .Electronic {
+  position: absolute;
+  top: 220px;
+  left: 33px;
+}
+
+.section .Design {
+  position: absolute;
+  top: 290px;
+  left: 33px;
+}
+
+.section .Transportation {
+  position: absolute;
+  top: 364px;
+  left: 30px;
+}
+
+.section .PurpleArrow1 {
+  position: absolute;
+  top: 220px;
+  left: 330px;
+}
+
+.section .PurpleArrow2 {
+  position: absolute;
+  top: 294px;
+  left: 330px;
+}
+
+.section .PurpleArrow3 {
+  position: absolute;
+  top: 367px;
+  left: 330px;
+}
+
+* {
+  margin: 1;
+  padding: 0;
+}
+
+body {
+  color: #462681;
+}
+
+h1 {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2 {
+  font-size: 13px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+}
+
+h4 {
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.top-section {
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: relative;
+}
+
+.top-section .imageContainer {
+  position: relative;
+}
+
+.top-section .heading {
+  position: absolute;
+  top: 17px;
+  right: 306px;
+  color: #fff;
+}
+
+.top-section .arrow {
+  position: absolute;
+  top: 14px;
+  right: 354px;
+}
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,161 @@
+
+
+//Last Section that display all of Steve Jobs information
+.section{
+    margin: auto;
+    position: relative;
+    top: -53px;
+    display: flex;
+    justify-content: center;  
+    @include border-radius(25px);
+    background: $color-white;  
+    height: 450px;
+    width: 375px;
+    border: 1px solid $color-black;
+    .steveHeader{
+        position: absolute;
+        top: 10px;
+        left: 15px;
+        font-size: 20px;
+    }
+    
+.follow{
+    position: absolute;
+    top: 63px;
+    left: 40px; 
+   
+   
+}
+.moreButton{
+
+    position: absolute;
+    top: 35px;
+    left: 320px; 
+
+}
+.plusButton{
+    position: absolute;
+    top: 60px;
+    left: 16px;
+}
+#borderTop {
+    height: 94px;
+  width: 327px;
+  position: absolute;
+  border-bottom: 1px solid $color-purple;
+}
+
+#borderBottom{
+    height: 167px;
+    width: 327px;
+    position: absolute;
+    border-bottom: 1px solid $color-purple;  
+}
+
+#thirdBorder{
+    height: 270px;
+    width: 327px;
+    position: absolute;
+    border-bottom: 1px solid $color-purple;  
+}
+
+#fourthBorder{
+    height: 342px;
+    width: 327px;
+    position: absolute;
+    border-bottom: 1px solid $color-purple;  
+}
+
+#finalBorder{
+    height: 414px;
+    width: 327px;
+    position: absolute;
+    border-bottom: 1px solid $color-purple;  
+}
+
+.firstNumber{
+    position: absolute;
+    top: 105px;
+    left: 40px; 
+}
+
+.patents{
+    position: absolute;
+    top: 140px;
+    left: 41px;  
+    
+}
+
+.follwerNumber{
+    position: absolute;
+    top: 105px;
+    left: 135px;  
+    
+    
+}
+
+.Follwers{
+    position: absolute;
+    top: 140px;
+    left: 148px;  
+}
+
+.thirdNumber{
+    position: absolute;
+    top: 105px;
+    left: 285px; 
+}
+
+.Follwering{
+    position: absolute;
+    top: 140px;
+    left: 278px;
+}
+
+.categories{
+    position: absolute;
+    top: 185px;
+    left: 33px;  
+}
+
+.Electronic{
+    position: absolute;
+    top: 220px;
+    left: 33px; 
+}
+
+.Design{
+    position: absolute;
+    top: 290px;
+    left: 33px;
+}
+
+.Transportation{
+
+    position: absolute;
+    top: 364px;
+    left: 30px;
+
+
+}
+
+.PurpleArrow1{
+    position: absolute;
+    top: 220px;
+    left: 330px;   
+}
+
+.PurpleArrow2{
+    position: absolute;
+    top: 294px;
+    left: 330px;
+}
+
+.PurpleArrow3{
+    position: absolute;
+    top: 367px;
+    left: 330px;
+}
+
+}
+

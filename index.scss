@@ -1,0 +1,80 @@
+//Variables
+$color-purple: #462681;
+$color-white: #fff;
+$color-black: #0000001A;
+
+//Mixins
+
+@mixin border-radius($radius) {
+    border-radius: $radius;
+}
+
+//Imports
+@import 'section2';
+
+
+*{
+    margin: 1;
+    padding: 0;
+}
+
+body{
+    color: $color-purple;
+}
+
+h1{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h2{
+    font-size: 13px;    
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+h4{
+    font-size: 25px;    
+    font-family: 'Open Sans', sans-serif;
+}
+
+//First Section
+.top-section{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    .imageContainer{
+        position: relative;
+    }
+    .heading{
+        position: absolute;
+        top: 17px;
+        right: 306px;
+        color: $color-white;
+    }
+    .arrow{
+        position: absolute;
+        top: 14px; 
+        right: 354px;
+          
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
